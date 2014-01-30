@@ -1,0 +1,697 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"line",
+				"list-style-position"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"media",
+				"media smartphone	smartphone"
+			],
+			[
+				"doc",
+				"DOCTYPE"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"medi",
+				"media query desktop/laptop	desktop & laptop"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"sho",
+				"showSection"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bot",
+				"button	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"foa",
+				"float"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"tr",
+				"text-transform"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"cla",
+				"claveN"
+			],
+			[
+				"cl",
+				"claveN"
+			],
+			[
+				"vect",
+				"vector-set"
+			],
+			[
+				"c",
+				"confirmar-clave"
+			],
+			[
+				"ver",
+				"verificar-cedula"
+			],
+			[
+				"cam",
+				"cambiar-datos"
+			],
+			[
+				"mos",
+				"mostrar-dinero-total"
+			],
+			[
+				"ve",
+				"vector-length"
+			],
+			[
+				"most",
+				"mostrar-mayores"
+			],
+			[
+				"defi",
+				"define"
+			],
+			[
+				"vec",
+				"vector-ref"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"veri",
+				"verificar-estado"
+			],
+			[
+				"efe",
+				"efectuar-cambio-estado"
+			],
+			[
+				"vc",
+				"vced"
+			],
+			[
+				"vefc",
+				"vector-ref"
+			],
+			[
+				"Cons",
+				"Consignacion"
+			],
+			[
+				"re",
+				"Retiro"
+			],
+			[
+				"lee",
+				"leer-cedula"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"cons",
+				"Consignacion"
+			],
+			[
+				"s",
+				"saldo"
+			],
+			[
+				"do",
+				"doctype"
+			],
+			[
+				"_get",
+				"_getDocType"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"titl",
+				"titleExtra"
+			],
+			[
+				"tit",
+				"titleExtra"
+			],
+			[
+				"en",
+				"en-us"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git: p",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"exit",
+			"clar();",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/beto/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/beto/Dropbox/INVENTARIO BBRE/COMISIONES.txt",
+		"/home/beto/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/beto/Documents/WEB/Grupo Elite Sistemas/css/normalize.css",
+		"/home/beto/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/beto/Documents/WEB/Grupo Elite Sistemas/css/sections-buttons-style.css",
+		"/home/beto/Documents/WEB/Grupo Elite Sistemas/index.html",
+		"/home/beto/Documents/WEB/Grupo Elite Sistemas/Grupo Elite Sistemas.sublime-project",
+		"/home/beto/Documents/WEB/GES Main/gesMain.sublime-project",
+		"/home/beto/Documents/WEB/index.html",
+		"/home/beto/Documents/WEB/GES Main/css/sections-buttons-style.css",
+		"/home/beto/Documents/WEB/GES Main/index.html",
+		"/usr/lib/noise/plugins/AudioPlayer-Device/audioplayer-device.plugin",
+		"/usr/lib/noise/plugins/MPRIS/mpris.plugin",
+		"/opt/teamviewer9/doc/License.txt",
+		"/opt/teamviewer9/config/global.conf",
+		"/etc/apache2/apache2.conf",
+		"/home/beto/Web page Ges/index.html",
+		"/home/beto/temp.css",
+		"/home/beto/.config/sublime-text-3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/User/Autoprefixer.sublime-settings",
+		"/home/beto/Web page Ges/style/style.css",
+		"/home/beto/Web page Ges/font/BPreplay/SIL Open Font License.txt",
+		"/home/beto/.config/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/CSSFontFamily/CSSFontFamily.sublime-settings",
+		"/home/beto/Web page Ges/font/BPreplay/BPreplay.otf",
+		"/home/beto/Web page Ges/font/BPreplay/BPreplayBold.otf",
+		"/home/beto/Web page Ges/font/BPreplay/BPreplayItalics.otf",
+		"/home/beto/Web page Ges/font/BPreplay/BPreplayBoldItalics.otf",
+		"/home/beto/Web page Ges/font/SIL Open Font License.txt",
+		"/home/beto/Web page Ges/css/main.css",
+		"/home/beto/Web page Ges/model/FileReader.php",
+		"/home/beto/Web page Ges/template/open.php",
+		"/home/beto/Web page Ges/controller/WebPage.php",
+		"/home/beto/Web page Ges/template/index.html",
+		"/home/beto/Web page Ges/index.php",
+		"/home/beto/Web page Ges/template/close.html",
+		"/home/beto/Web page Ges/controllers/WebPage.php",
+		"/home/beto/index.html",
+		"/tmp/vmware_3.13.txt",
+		"/home/beto/.PlayOnLinux/wineprefix/SoulReaver/drive_c/Program Files/Eidos Interactive/Soul Reaver/readme.txt",
+		"/home/beto/Videos/Movies/32152.srt",
+		"/home/beto/Documents/Backup tostador/combo pass 25 sep gordo friky.txt",
+		"/home/beto/Desktop/Proyecto/main.rkt",
+		"/home/beto/Videos/32153.srt",
+		"/home/beto/Downloads/Microsoft_Office_Enterprise_2007/Serial.txt",
+		"/home/beto/Downloads/LOK-Soul Reaver 2[By.Santana3096]/Crack/Instrucciones De instalacion del crack.txt",
+		"/home/beto/.PlayOnLinux/wineprefix/SoulReaver/drive_c/Program Files/Eidos Interactive/Soul Reaver/PARA INTROAVI/LEEME si no funciona el video.txt",
+		"/home/beto/Soul_Reaver_iso/INSTRUCCIONES.txt",
+		"/home/beto/crackSoulReaver/PARA INTROAVI/LEEME si no funciona el video.txt",
+		"/home/beto/Web Page Ges Sas",
+		"/home/beto/Downloads/Windows XP Professional SP3 April 2013 + SATA Drivers 【ThumperDC】/wWw.ThumperDC.COM.txt",
+		"/media/D/MIS DOCUMENTOS/Downloads/combo pass 25 sep gordo friky.txt",
+		"/home/beto/Downloads/fpdf17/fpdf.php",
+		"/home/beto/Documents/Things For Xp/antiwpa/AntiWPA3.cmd",
+		"/media/REDESYCO/Microsoft Office 2007 Enterprise Edition (ESPAÑOL)/LEEME.TXT",
+		"/home/beto/.cache/.fr-VtkRqE/WhatsNew.txt",
+		"/home/beto/Documents/Driver Genius Professional 12.0.0.1314 (FULL + Key)/Read Me FIRST.txt",
+		"/home/beto/Documents/style.css",
+		"/home/beto/Documents/index.html",
+		"/home/beto/Cemhco/index.php",
+		"/home/beto/Documents/LibreOffice/LibreOffice_4.1.4.2_Linux_x86-64_deb/readmes/README_en-US",
+		"/opt/sublime_text/changelog.txt",
+		"/home/beto/Documents/Pitidos PC",
+		"/home/beto/.cache/.fr-AmiZD2/WhatsNew.txt",
+		"/home/beto/Cemhco/about.php",
+		"/home/beto/Cemhco/classPage.php",
+		"/home/beto/Cemhco/pageBottom.txt",
+		"/home/beto/.cache/.fr-qj6qgr/Version.txt",
+		"/home/beto/.cache/.fr-QpPBia/Version.txt",
+		"/home/beto/Documents/Conny/pgcpopt.txt",
+		"/home/beto/NetBeansProjects/JavaFXApplication1/dist/JavaFXApplication1.jnlp",
+		"/home/beto/NetBeansProjects/JavaFXApplication1/dist/JavaFXApplication1.html",
+		"/home/beto/Downloads/Joomla 3.2/installation/index.php",
+		"/home/beto/Downloads/Joomla 3.2/includes/defines.php",
+		"/home/beto/Downloads/Joomla 3.2/index.php",
+		"/home/beto/Cemhco/style.css",
+		"/home/beto/Cemhco/pageTop.txt",
+		"/home/beto/Cemhco/pageHead.txt",
+		"/home/beto/Documents/cvs bbr/QueryCopy",
+		"/home/beto/Downloads/CentOS-6.5-i386-LiveCD/md5sum.txt",
+		"/home/beto/Downloads/Joomla 3.2/administrator/index.php",
+		"/usr/src/psmouse-alps-1.3/alps.txt",
+		"/home/beto/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/beto/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/beto/Desktop/tempWeb/index.html",
+		"/home/beto/Desktop/tempWeb/estilos.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/beto/Web page Ges/font"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"label",
+			"div",
+			">\n",
+			"div",
+			"for",
+			"label",
+			"ul",
+			"li",
+			"ul",
+			"li",
+			"class",
+			"button",
+			"ul",
+			">\n",
+			"k",
+			"(define (retirar-saldo c)\n	(if (verificar-estado c)\n		(begin\n			(display \"Digite el monto a retirar: $\")\n			(set! monto (read))\n			(if (verificar-saldo monto (buscar vced c 0))\n				(efectuar-retiro monto (buscar vced c 0) (confirmar-clave (buscar vced c 0)))\n				(display \"Fondos insuficientes\")\n				)\n			)\n		(display \"Usted se encuentra actualmente inactivo\")\n		)\n	)",
+			"unre"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 205.0
+	},
+	"project": "assigner.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"css/sections-buttons-style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
