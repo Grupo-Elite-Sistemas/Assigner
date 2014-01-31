@@ -4,12 +4,48 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
 				"bo",
+				"border"
+			],
+			[
+				"border-r",
 				"border-radius"
 			],
 			[
+				"fo",
+				"font-size"
+			],
+			[
 				"mar",
-				"margin-right"
+				"margin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"float"
 			],
 			[
 				"bor",
@@ -126,10 +162,6 @@
 			[
 				"t",
 				"type	Attr"
-			],
-			[
-				"in",
-				"input"
 			],
 			[
 				"op",
@@ -347,7 +379,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 206,
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/index.css",
+			"settings":
+			{
+				"buffer_size": 1640,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view/session.html",
+			"settings":
+			{
+				"buffer_size": 620,
 				"line_ending": "Unix"
 			}
 		}
@@ -355,16 +403,40 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 369.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"pack",
-				"Package Control: List Packages"
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
 			],
 			[
 				"pac",
 				"Package Control: Install Package"
+			],
+			[
+				"paa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"githu",
+				"GitHub: Copy Gist to Clipboard"
+			],
+			[
+				"github",
+				"GitHub: Copy Gist URL to Clipboard"
+			],
+			[
+				"gi",
+				"GitHub: Switch Accounts"
 			],
 			[
 				"git: p",
@@ -373,14 +445,6 @@
 			[
 				"git",
 				"Git: Commit"
-			],
-			[
-				"",
-				"Autoprefix CSS"
-			],
-			[
-				"pa",
-				"Package Control: List Packages"
 			],
 			[
 				"Package Control: ",
@@ -403,7 +467,7 @@
 				"Snippet: #!/usr/bin/env"
 			]
 		],
-		"width": 575.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -426,6 +490,10 @@
 	},
 	"file_history":
 	[
+		"/home/beto/Dropbox/documentos empresa/web/Imagenes Para Publicaciones/favicon.png",
+		"/home/beto/Documents/WEB/Assigner/css/normalize.css",
+		"/home/beto/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/beto/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/User/Git.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
 		"/home/beto/Dropbox/INVENTARIO BBRE/COMISIONES.txt",
@@ -579,15 +647,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 1144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								206,
-								206
+								525,
+								525
 							]
 						],
 						"settings":
@@ -599,6 +667,68 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 866.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "view/session.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -621,11 +751,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.463515754561,
 			1.0
 		],
 		"rows":
