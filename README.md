@@ -14,7 +14,5 @@ Or
 
 5) git push origin master // Para sincronizar el repositorio remoto con nuestros cambios.
 
-
 Assigner
 ========
-
