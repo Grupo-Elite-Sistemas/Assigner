@@ -343,14 +343,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 206,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -426,6 +418,7 @@
 	},
 	"file_history":
 	[
+		"/Users/JASV/Documents/web/assigner/index.html",
 		"/home/beto/.config/sublime-text-3/Packages/User/Git.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
 		"/home/beto/Dropbox/INVENTARIO BBRE/COMISIONES.txt",
@@ -570,37 +563,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 206,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								206,
-								206
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

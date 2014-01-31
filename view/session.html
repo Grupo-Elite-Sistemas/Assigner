@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width = divice-width;"> 
 	<meta name="viewport" content="initial-scale = 1.0;">
 	<title>login</title>
-	<link rel="stylesheet" href="../css/login.css">
+	<link rel="stylesheet" href="../style/login.css">
 	<link rel="stylesheet" href="./css/normalize.css">
 </head>
 <body>
@@ -14,10 +14,20 @@
 	<div id="caja">	
 		<h1>Login</h1>
   		<form>
-  			<input type="text" name="nombre"/>
+  		  <input type="text" placeholder="INGRESA TU USUARIO" name="nombre" required/>
+  		    <br> <br/>
+  		  <input type="password" name="pass" value="pass"/>
   			<br> <br/>
-  			<input type="password" name="pass" value="pass"/>
-  			<input type="submit" name="boton" value="entrar"/>
+
+  			<a class="boton" title="Botón con HTM5 y CSS3" href="#">Botón HTM5+CSS3
+               </a>
+  		  <input type="submit" name="boton" value="Iniciar sesión"/>
+  			<br> <br/>
+  			 
+			<input name="iniciar sesión" type="checkbox" />Mantener la sesión iniciada
+
+             <br />
+
   	</div>
 </body>
 </html>
