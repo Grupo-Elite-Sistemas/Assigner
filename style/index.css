@@ -1,0 +1,46 @@
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: inherit;
+	height: inherit;
+}
+
+.top-header {
+	position: absolute;
+	display: inline-block;
+	//overflow: hidden;
+	width: 100%;
+	height: 50px;
+	border: solid 1px;
+}
+
+		.warpper-logo-ges {
+			
+			position: relative;
+			display: inherit;
+			width: 50px;
+			height: 100%;
+		}
+
+				.logo-ges {
+					position: absolute;
+					width: 100%;
+				}
+		
+
+		.warpper-vertical-menu {
+			float: right;
+			position: relative;
+			display: inherit;
+			height: 100%;
+			text-align: right;
+		}
+
+				.vertical-menu {
+					height: inherit;
+					border: solid 2px;
+				}
