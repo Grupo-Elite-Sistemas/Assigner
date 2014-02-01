@@ -1,32 +1,32 @@
 #caja
 {
-	background-color: #f0f0f0;
-	width: 200px;
-	border: solid 1px;
-	margin: 150px auto;
-	padding: 1em;
-	border-radius: 6px;
+    margin: 150px auto;
+    padding: 1em;
+    width: 200px;
+    border: solid 1px;
+    border-radius: 6px;
+    background-color: #f0f0f0;
 }
 
 .boton{
+    padding: .8em 1.8em;   
+    border: 1px solid #125CB5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;  
+    border-radius: 5px;
     background:#0D98FB; 
     background-image: -webkit-linear-gradient(top,#0D98FB,#1A5DB3);
     background-image: -moz-linear-gradient(top,#0D98FB,#1A5DB3);
     background-image: -o-linear-gradient(top,#0D98FB,#1A5DB3);  
-    background-image: linear-gradient(to bottom,#0D98FB,#1A5DB3);   
-    border: 1px solid #125CB5;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -o-border-radius: 5px;  
-    border-radius: 5px;
-    -moz-box-shadow: 0 1px 1px #71C0FD inset;
+    background-image: linear-gradient(to bottom,#0D98FB,#1A5DB3);
     -webkit-box-shadow: 0 1px 1px #71C0FD inset;
-    -o-box-shadow: 0 1px 1px #71C0FD inset; 
+    -moz-box-shadow: 0 1px 1px #71C0FD inset; 
     box-shadow: 0 1px 1px #71C0FD inset;
-    padding: .8em 1.8em;
     color: white;
-    font-weight:normal;
     text-decoration:none;
+    font-weight:normal;
+    -o-border-radius: 5px;
+    -o-box-shadow: 0 1px 1px #71C0FD inset;
 }
 .boton:hover {
     background:#1A5DB3;
@@ -43,7 +43,7 @@
 
      body 
 {
-	 background-color: #FFFF99;
-	
+     background-color: #FFFF99;
+    
 
 }

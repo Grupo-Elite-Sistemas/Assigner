@@ -4,16 +4,56 @@
 		"selected_items":
 		[
 			[
+				"ju",
+				"justify"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"ar",
+				"area	<area>"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"sh",
+				"tsh	text-shadow: ${1:hoff} ${2:voff} ${3:blur} ${4:#000};"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"sn",
+				"sans-serif"
+			],
+			[
 				"ba",
 				"background-color"
 			],
 			[
 				"in",
 				"inline-block"
-			],
-			[
-				"co",
-				"content"
 			],
 			[
 				"bo",
@@ -48,10 +88,6 @@
 				"float"
 			],
 			[
-				"bor",
-				"border"
-			],
-			[
 				"li",
 				"line-height"
 			],
@@ -66,10 +102,6 @@
 			[
 				"line",
 				"list-style-position"
-			],
-			[
-				"min",
-				"min-width"
 			],
 			[
 				"lis",
@@ -106,10 +138,6 @@
 			[
 				"medi",
 				"media query desktop/laptop	desktop & laptop"
-			],
-			[
-				"fon",
-				"font-family"
 			],
 			[
 				"sho",
@@ -154,10 +182,6 @@
 			[
 				"pa",
 				"padding"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"t",
@@ -230,10 +254,6 @@
 			[
 				"si",
 				"font-size"
-			],
-			[
-				"ar",
-				"article	Tag"
 			],
 			[
 				"hea",
@@ -375,33 +395,6 @@
 	},
 	"buffers":
 	[
-<<<<<<< HEAD
-=======
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1144,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style/index.css",
-			"settings":
-			{
-				"buffer_size": 1640,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "view/session.html",
-			"settings":
-			{
-				"buffer_size": 620,
-				"line_ending": "Unix"
-			}
-		}
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 	],
 	"build_system": "",
 	"command_palette":
@@ -414,12 +407,12 @@
 				"Autoprefix CSS"
 			],
 			[
-				"pa",
-				"Package Control: Remove Package"
+				"pac",
+				"Package Control: List Packages"
 			],
 			[
-				"pac",
-				"Package Control: Install Package"
+				"pa",
+				"Package Control: Remove Package"
 			],
 			[
 				"paa",
@@ -470,7 +463,7 @@
 				"Snippet: #!/usr/bin/env"
 			]
 		],
-		"width": 449.0
+		"width": 409.0
 	},
 	"console":
 	{
@@ -493,14 +486,17 @@
 	},
 	"file_history":
 	[
-<<<<<<< HEAD
-		"/Users/JASV/Documents/web/assigner/index.html",
-=======
+		"/home/beto/Documents/WEB/Assigner/style/form.css",
+		"/home/beto/Documents/WEB/Assigner/README.md",
+		"/home/beto/Documents/WEB/Assigner/style/preview.html",
+		"/home/beto/Documents/WEB/Assigner/registro/Registro.html",
+		"/home/beto/Documents/WEB/Assigner/view/session.html",
+		"/home/beto/Documents/WEB/Assigner/style/index.css",
+		"/home/beto/Documents/WEB/Assigner/index.html",
 		"/home/beto/Dropbox/documentos empresa/web/Imagenes Para Publicaciones/favicon.png",
 		"/home/beto/Documents/WEB/Assigner/css/normalize.css",
 		"/home/beto/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 		"/home/beto/.config/sublime-text-3/Packages/User/Git.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
 		"/home/beto/Dropbox/INVENTARIO BBRE/COMISIONES.txt",
@@ -611,6 +607,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"input[type=\"radio\"]:checked + label[for ^= \"radio-\"] {\n",
+			"radio",
+			"C0C0C0",
+			"00CCFF",
 			"label",
 			"div",
 			">\n",
@@ -647,99 +647,11 @@
 		{
 			"sheets":
 			[
-<<<<<<< HEAD
-=======
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								525,
-								525
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 			]
 		},
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "style/index.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1378,
-								1378
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 866.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "view/session.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 620,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								416,
-								416
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -771,7 +683,7 @@
 		"cols":
 		[
 			0.0,
-			0.463515754561,
+			0.567164179105,
 			1.0
 		],
 		"rows":
