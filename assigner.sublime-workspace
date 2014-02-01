@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"ju",
+				"justify"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"ar",
+				"area	<area>"
+			],
+			[
 				"fon",
 				"font-weight"
 			],
@@ -68,10 +88,6 @@
 				"float"
 			],
 			[
-				"bor",
-				"border"
-			],
-			[
 				"li",
 				"line-height"
 			],
@@ -86,10 +102,6 @@
 			[
 				"line",
 				"list-style-position"
-			],
-			[
-				"min",
-				"min-width"
 			],
 			[
 				"lis",
@@ -244,10 +256,6 @@
 				"font-size"
 			],
 			[
-				"ar",
-				"article	Tag"
-			],
-			[
 				"hea",
 				"header	Tag"
 			],
@@ -387,30 +395,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 612,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style/preview.html",
-			"settings":
-			{
-				"buffer_size": 288,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style/form.css",
-			"settings":
-			{
-				"buffer_size": 673,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -479,7 +463,7 @@
 				"Snippet: #!/usr/bin/env"
 			]
 		],
-		"width": 449.0
+		"width": 409.0
 	},
 	"console":
 	{
@@ -502,6 +486,10 @@
 	},
 	"file_history":
 	[
+		"/home/beto/Documents/WEB/Assigner/style/form.css",
+		"/home/beto/Documents/WEB/Assigner/README.md",
+		"/home/beto/Documents/WEB/Assigner/style/preview.html",
+		"/home/beto/Documents/WEB/Assigner/registro/Registro.html",
 		"/home/beto/Documents/WEB/Assigner/view/session.html",
 		"/home/beto/Documents/WEB/Assigner/style/index.css",
 		"/home/beto/Documents/WEB/Assigner/index.html",
@@ -619,6 +607,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"input[type=\"radio\"]:checked + label[for ^= \"radio-\"] {\n",
+			"radio",
+			"C0C0C0",
 			"00CCFF",
 			"label",
 			"div",
@@ -654,99 +645,13 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 612,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								594,
-								594
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style/preview.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 288,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								288,
-								288
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 2,
-					"file": "style/form.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 673,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								418,
-								418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -778,7 +683,7 @@
 		"cols":
 		[
 			0.0,
-			0.463515754561,
+			0.567164179105,
 			1.0
 		],
 		"rows":

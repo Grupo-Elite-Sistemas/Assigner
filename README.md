@@ -1,6 +1,10 @@
 Todo lo relacionado con archivos css por favor ponganse en la carpeta
 style para tener un estándar de acceso sencillo.
 
+El archivo normalize.css deberia ser el primer estilo a importar en su
+hoja html, ya que este hace una especie de reset a todos los
+navegadores para que los estilos se aplique de manera correcta.
+
 Por favor hagan el css lo mas ordenado posible y por orden de prioridades
 en cuanto a los atributos, y en cuanto a bloques de estilos, por
 el momento, en orden alfabetico, una herramienta muy buena
