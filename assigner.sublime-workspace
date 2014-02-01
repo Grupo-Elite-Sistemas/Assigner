@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"sh",
+				"tsh	text-shadow: ${1:hoff} ${2:voff} ${3:blur} ${4:#000};"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"sn",
+				"sans-serif"
+			],
+			[
 				"ba",
 				"background-color"
 			],
 			[
 				"in",
 				"inline-block"
-			],
-			[
-				"co",
-				"content"
 			],
 			[
 				"bo",
@@ -108,10 +128,6 @@
 				"media query desktop/laptop	desktop & laptop"
 			],
 			[
-				"fon",
-				"font-family"
-			],
-			[
 				"sho",
 				"showSection"
 			],
@@ -154,10 +170,6 @@
 			[
 				"pa",
 				"padding"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"t",
@@ -375,33 +387,30 @@
 	},
 	"buffers":
 	[
-<<<<<<< HEAD
-=======
 		{
-			"file": "index.html",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1144,
+				"buffer_size": 612,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "style/index.css",
+			"file": "style/preview.html",
 			"settings":
 			{
-				"buffer_size": 1640,
+				"buffer_size": 288,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "view/session.html",
+			"file": "style/form.css",
 			"settings":
 			{
-				"buffer_size": 620,
+				"buffer_size": 673,
 				"line_ending": "Unix"
 			}
 		}
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 	],
 	"build_system": "",
 	"command_palette":
@@ -414,12 +423,12 @@
 				"Autoprefix CSS"
 			],
 			[
-				"pa",
-				"Package Control: Remove Package"
+				"pac",
+				"Package Control: List Packages"
 			],
 			[
-				"pac",
-				"Package Control: Install Package"
+				"pa",
+				"Package Control: Remove Package"
 			],
 			[
 				"paa",
@@ -493,14 +502,13 @@
 	},
 	"file_history":
 	[
-<<<<<<< HEAD
-		"/Users/JASV/Documents/web/assigner/index.html",
-=======
+		"/home/beto/Documents/WEB/Assigner/view/session.html",
+		"/home/beto/Documents/WEB/Assigner/style/index.css",
+		"/home/beto/Documents/WEB/Assigner/index.html",
 		"/home/beto/Dropbox/documentos empresa/web/Imagenes Para Publicaciones/favicon.png",
 		"/home/beto/Documents/WEB/Assigner/css/normalize.css",
 		"/home/beto/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 		"/home/beto/.config/sublime-text-3/Packages/User/Git.sublime-settings",
 		"/home/beto/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
 		"/home/beto/Dropbox/INVENTARIO BBRE/COMISIONES.txt",
@@ -611,6 +619,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"00CCFF",
 			"label",
 			"div",
 			">\n",
@@ -645,25 +654,52 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
-<<<<<<< HEAD
-=======
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1144,
+						"buffer_size": 612,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								525,
-								525
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style/preview.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
 							]
 						],
 						"settings":
@@ -677,61 +713,32 @@
 					"stack_index": 0,
 					"type": "text"
 				}
->>>>>>> 2a19eba6387e17c51df10ecd655df47376234516
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 1,
-					"file": "style/index.css",
+					"buffer": 2,
+					"file": "style/form.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1640,
+						"buffer_size": 673,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1378,
-								1378
+								418,
+								418
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 866.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "view/session.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 620,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								416,
-								416
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
