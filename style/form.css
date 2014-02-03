@@ -1,3 +1,8 @@
+input[type="checkbox"],input[type="radio"]
+{
+	display: none;
+}
+
 .button-style {
  margin:10px;
  padding:10px;
@@ -10,9 +15,13 @@
 }
 
 
-.field-style,
 label[for ^= "checkbox-"],
-label[for ^= "radio-"]
+label[for ^= "radio-"],
+input[type="radio"] + label[for ^= "radio-"]:before, 
+input[type="checkbox"] + label[for ^= "checkbox-"]:before,
+.field-style,
+.select-style,
+.select-style>option
 {
 	position: relative;
 	display: inline-block;
@@ -29,15 +38,33 @@ label[for ^= "radio-"]
 	text-shadow: 0px 1px 1px rgba(192, 192, 192, 0.5);
 	font-size: 12px;
 	font-family: sans-serif;
+	cursor: pointer;
 	-webkit-transition: all 0.2s linear;
 	transition: all 0.2s linear;
 }
 
-.field-style:focus,
+input[type="radio"] + label[for ^= "radio-"]:before, 
+input[type="checkbox"] + label[for ^= "checkbox-"]:before{
+	margin: 0px 4px 0px 0px;
+	padding: 0px;
+	width: 5px;
+	height: 5px;
+	border-radius: 2px;
+	box-shadow: inset 0px 0px 4px 2px rgba(192, 192, 192, 0.5);
+	content: "";
+}
+
+input[type="radio"] + label[for ^= "radio-"]:before{
+	border-radius: 50%;
+}
+
 input[type="text"]:focus,
 input[type="password"]:focus,
 input[type="radio"]:checked + label[for ^= "radio-"], 
-input[type="checkbox"]:checked + label[for ^= "checkbox-"]
+input[type="checkbox"]:checked + label[for ^= "checkbox-"],
+.field-style:focus,
+.select-style:focus,
+.select-style:focus>option:hover
 {
 	border: solid 1px rgba(83, 123, 255, 1);
 	box-shadow: 0px 0px 4px 2px rgba(83, 123, 255, 0.5);
@@ -46,13 +73,44 @@ input[type="checkbox"]:checked + label[for ^= "checkbox-"]
 	transform: scale(1.02,1);
 }
 
-input[type="password"],input[type="text"]
+input[type="radio"]:checked + label[for ^= "radio-"]:before, 
+input[type="checkbox"]:checked + label[for ^= "checkbox-"]:before{
+	border: solid 1px rgba(83, 123, 255, 1);
+	box-shadow: inset 0px 0px 4px 2px rgba(83, 123, 255, 0.5);
+	-webkit-transform: scale(1.02,1);
+	transform: scale(1.02,1);
+}
+
+input[type="password"],
+input[type="text"],
+.select-style>option,
+.select-style
 {
 	min-width: 180px;
 	min-height: 20px;
+	max-height: 28px;
+	vertical-align: middle;
 }
 
-input[type="checkbox"],input[type="radio"]
-{
-	display: none;
+.select-style {
+	background-color: #fff;
+	background-image: url("../image/arrow.png");
+	background-position: right;
+	background-size: 20px 100%;
+	background-repeat: no-repeat;
+	text-indent: 0.01px;
+	text-overflow: "";
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+.select-style>option {
+	position: relative;
+	display: list-item;
+	margin: 0px;
+	padding: 0px;
+	border-radius: 2px;
+	list-style: none;
+	text-align: center;
 }

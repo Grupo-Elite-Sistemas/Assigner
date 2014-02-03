@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"b",
+				"baseline"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"table-",
+				"table-row-group"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-column"
+			],
+			[
+				"inl",
+				"inline-table"
+			],
+			[
 				"ju",
 				"justify"
 			],
@@ -46,10 +90,6 @@
 			[
 				"sn",
 				"sans-serif"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"in",
@@ -156,10 +196,6 @@
 				"text-align"
 			],
 			[
-				"inl",
-				"inline-block"
-			],
-			[
 				"on",
 				"onclick	Attr"
 			],
@@ -206,10 +242,6 @@
 			[
 				"foa",
 				"float"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"st",
@@ -396,10 +428,18 @@
 	"buffers":
 	[
 		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2161,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "style/form.css",
 			"settings":
 			{
-				"buffer_size": 1217,
+				"buffer_size": 2624,
 				"line_ending": "Unix"
 			}
 		}
@@ -617,6 +657,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"none",
+			"appearance",
 			"input[type=\"radio\"]:checked + label[for ^= \"radio-\"] {\n",
 			"radio",
 			"C0C0C0",
@@ -660,19 +702,54 @@
 			[
 				{
 					"buffer": 0,
-					"file": "style/form.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1217,
+						"buffer_size": 2161,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								279,
-								279
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style/form.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
 							]
 						],
 						"settings":
@@ -680,18 +757,13 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 900.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -723,7 +795,7 @@
 		"cols":
 		[
 			0.0,
-			0.567164179105,
+			0.426202321725,
 			1.0
 		],
 		"rows":
