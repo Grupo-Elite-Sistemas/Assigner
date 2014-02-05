@@ -4,16 +4,20 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
 				"ba",
 				"background-color"
 			],
 			[
 				"bac",
 				"background-position"
-			],
-			[
-				"tex",
-				"text-indent"
 			],
 			[
 				"out",
@@ -66,10 +70,6 @@
 			[
 				"ar",
 				"area	<area>"
-			],
-			[
-				"fon",
-				"font-weight"
 			],
 			[
 				"i",
@@ -431,7 +431,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2161,
+				"buffer_size": 2211,
 				"line_ending": "Unix"
 			}
 		},
@@ -439,7 +439,7 @@
 			"file": "style/form.css",
 			"settings":
 			{
-				"buffer_size": 2624,
+				"buffer_size": 2549,
 				"line_ending": "Unix"
 			}
 		}
@@ -511,7 +511,7 @@
 				"Snippet: #!/usr/bin/env"
 			]
 		],
-		"width": 409.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -534,6 +534,8 @@
 	},
 	"file_history":
 	[
+		"/var/www/Assigner/style/form.css",
+		"/var/www/Assigner/index.html",
 		"/home/beto/Documents/WEB/Assigner/index.html",
 		"/home/beto/Documents/WEB/Assigner/README.md",
 		"/home/beto/Documents/WEB/Assigner/style/login.css",
@@ -657,6 +659,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"83, 123, 255",
+			"rgba(83, 123, 255,",
+			"rgba(83, 123, 255, 0.5)",
+			"rgba",
+			"input[type=\"radio\"]:checked + label[for ^= \"radio-\"]:before{content: \"\\2219\";}\n",
 			"none",
 			"appearance",
 			"input[type=\"radio\"]:checked + label[for ^= \"radio-\"] {\n",
@@ -706,15 +713,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2161,
+						"buffer_size": 2211,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								305,
-								305
+								508,
+								508
 							]
 						],
 						"settings":
@@ -741,15 +748,35 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2624,
+						"buffer_size": 2549,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								202,
-								202
+								1460,
+								1460
+							],
+							[
+								1509,
+								1509
+							],
+							[
+								1557,
+								1557
+							],
+							[
+								1792,
+								1792
+							],
+							[
+								1847,
+								1847
+							],
+							[
+								1877,
+								1877
 							]
 						],
 						"settings":
@@ -758,7 +785,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 900.0,
+						"translation.y": 458.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
