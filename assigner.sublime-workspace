@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"sc",
+				"scroll"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bac",
+				"background-origin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"style",
+				"style	Tag"
+			],
+			[
 				"fon",
 				"font-size"
 			],
@@ -14,10 +42,6 @@
 			[
 				"ba",
 				"background-color"
-			],
-			[
-				"bac",
-				"background-position"
 			],
 			[
 				"out",
@@ -58,10 +82,6 @@
 			[
 				"min",
 				"min-height"
-			],
-			[
-				"bor",
-				"border-radius"
 			],
 			[
 				"text",
@@ -431,7 +451,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2211,
+				"buffer_size": 2117,
 				"line_ending": "Unix"
 			}
 		},
@@ -439,7 +459,7 @@
 			"file": "style/form.css",
 			"settings":
 			{
-				"buffer_size": 2549,
+				"buffer_size": 2593,
 				"line_ending": "Unix"
 			}
 		}
@@ -534,6 +554,7 @@
 	},
 	"file_history":
 	[
+		"/home/beto/README.md",
 		"/var/www/Assigner/style/form.css",
 		"/var/www/Assigner/index.html",
 		"/home/beto/Documents/WEB/Assigner/index.html",
@@ -713,15 +734,19 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2211,
+						"buffer_size": 2117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								508,
-								508
+								1626,
+								1626
+							],
+							[
+								1630,
+								1630
 							]
 						],
 						"settings":
@@ -730,10 +755,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 600.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -748,35 +773,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2549,
+						"buffer_size": 2593,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1460,
-								1460
-							],
-							[
-								1509,
-								1509
-							],
-							[
-								1557,
-								1557
-							],
-							[
-								1792,
-								1792
-							],
-							[
-								1847,
-								1847
-							],
-							[
-								1877,
-								1877
+								1562,
+								1562
 							]
 						],
 						"settings":
@@ -785,10 +790,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 458.0,
+						"translation.y": 495.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

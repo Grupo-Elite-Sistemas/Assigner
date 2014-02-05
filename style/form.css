@@ -1,6 +1,8 @@
 input[type="checkbox"],input[type="radio"]{display: none;}
 
 label[for ^= "checkbox-"],
+input[type="password"],
+input[type="text"],
 label[for ^= "radio-"],
 input[type="submit"],
 input[type="radio"] + label[for ^= "radio-"]:before, 
