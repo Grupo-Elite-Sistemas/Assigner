@@ -462,6 +462,17 @@
 				"buffer_size": 2593,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"contents": "http://sip.voiprapido.com/index.html#undefined\n\ncuenta: 1067012\nPassword: gessas88\n\nLos Indcativos y costos estan en la Pestaña Rates.",
+			"file": "/home/beto/Dropbox/Comercial/Contabilidad/Datos Voip.txt",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -554,6 +565,7 @@
 	},
 	"file_history":
 	[
+		"/home/beto/Dropbox/listas de precio distribuidores/datos ftp.txt",
 		"/home/beto/README.md",
 		"/var/www/Assigner/style/form.css",
 		"/var/www/Assigner/index.html",
@@ -758,13 +770,13 @@
 						"translation.y": 600.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -794,6 +806,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/beto/Dropbox/Comercial/Contabilidad/Datos Voip.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
